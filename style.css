@@ -108,4 +108,8 @@ input[type="submit"] {
     padding: 1rem;
     border-radius: 100px;
     background-color: var(--primary);
+    color: var(--title);
+    font-size: var(--fs-medium);
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
